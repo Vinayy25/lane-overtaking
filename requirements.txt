@@ -1,0 +1,10 @@
+opencv-python
+numpy
+jsonschema
+logging
+roboflow 
+supervision 
+inference
+black
+ultralytics
+ollama
